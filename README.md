@@ -1,2 +1,2 @@
 # bootstrap-moderate
-Thema
+Home page com bootstrap via javascript
